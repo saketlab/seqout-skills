@@ -1,0 +1,10 @@
+# OS and editor
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/
+
+.env
+.env.*
+

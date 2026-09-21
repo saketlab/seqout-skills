@@ -1,0 +1,10 @@
+{
+  "name": "seqout",
+  "version": "0.1.0",
+  "description": "Find, check, download and build cohorts from public sequencing datasets (GEO, SRA, ENA, DDBJ, ArrayExpress, GSA) with seqout.org. Covers accessions, diseases, tissues, single-cell, long-read, microbes, papers and archive trends.",
+  "author": { "name": "Saket Lab" },
+  "license": "MIT",
+  "homepage": "https://seqout.org/mcp",
+  "repository": "https://github.com/saketlab/seqout-skills",
+  "keywords": ["bioinformatics", "genomics", "geo", "sra", "mcp"]
+}

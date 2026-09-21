@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "seqout": {
+      "type": "http",
+      "url": "https://seqout.org/api/mcp"
+    }
+  }
+}

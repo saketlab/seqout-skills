@@ -1,0 +1,12 @@
+{
+  "name": "seqout",
+  "description": "Skills and MCP server for exploring public sequencing datasets with seqout.org.",
+  "owner": { "name": "Saket Lab" },
+  "plugins": [
+    {
+      "name": "seqout",
+      "source": "./",
+      "description": "seqout MCP server plus ten skills for finding, checking, downloading and summarizing public sequencing data."
+    }
+  ]
+}
