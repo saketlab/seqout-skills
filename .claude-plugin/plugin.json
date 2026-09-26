@@ -15,5 +15,7 @@
     "sra",
     "mcp"
   ],
-  "privacyPolicyUrl": "https://seqout.org/privacy"
+  "privacyPolicyUrl": "https://seqout.org/privacy",
+  "documentationUrl": "https://seqout.org/faq",
+  "supportUrl": "https://github.com/saketlab/seqout-web/issues"
 }
